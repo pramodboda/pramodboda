@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pramod Kumar Boda</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="teachnology"  width="480" height="270" src="https://giphy.com/gifs/glitch-hacker-metaverse-bJ4TVNYNUympPgcpem"/>
+<img align="right" alt="teachnology"  width="480" src="https://giphy.com/gifs/glitch-hacker-metaverse-bJ4TVNYNUympPgcpem"/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pramodboda&label=Profile%20views&color=0e75b6&style=flat" alt="pramodboda" /> </p>
