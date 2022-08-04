@@ -1,6 +1,5 @@
 [![MasterHead](https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif)](https://www.linkedin.com/in/pramodkumarboda/)
 
-<img align="center" alt="technology" src="" width="100%"/>
 <h2 align="center">Hi 👋,</br>I'm Pramod Kumar Boda</h2>
 <h3 align="center">A passionate frontend developer from India</h3>
 
