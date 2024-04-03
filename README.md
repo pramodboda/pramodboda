@@ -4,7 +4,7 @@
 <hr>
 <h2>A full stack Software Developer with a strong passion for Front-end and UX/UI design</h2>
 <hr>
-<h2>My Projects 🚀</h2>
+<h2 style="border-bottom:0">My Projects 🚀</h2>
 <table>
 <thead>
 <tr>
