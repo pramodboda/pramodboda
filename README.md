@@ -1,9 +1,9 @@
 <h1>Hylo 👋,</br>I'm Pramod Kumar Boda</h2>
 
 [![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)](https://www.linkedin.com/in/pramodkumarboda/)
----
+<hr>
 <h2>A full stack Software Developer with a strong passion for Front-end and UX/UI design</h2>
----
+<hr>
 <h2>My Projects 🚀</h2>
 <table>
 <thead>
