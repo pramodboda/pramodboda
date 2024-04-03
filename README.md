@@ -2,7 +2,7 @@
 
 [![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)](https://www.linkedin.com/in/pramodkumarboda/)
 ---
-<h2>A passionate frontend developer from India</h2>
+<h2>A full stack Software Developer with a strong passion for Front-end and UX/UI design</h2>
 ---
 <h2>My Projects 🚀</h2>
 <table>
@@ -19,6 +19,12 @@
 <td><a href="#"><strong>Weather API App</strong></a></td>
 <td>An Weather API App built with <strong>React.js</strong>, <strong>Material UI</strong></td>
 <td>React / Weather API / Fetch / Material UI</td>
+<td><a href="#" rel="nofollow">Coming soon</a></td>
+</tr>
+  <tr>
+<td><a href="#"><strong>Masonry Gallery </strong></a></td>
+<td>A Masonry Gallery website built with <strong>React.js</strong>, <strong>Material UI</strong> </td>
+<td>React / Material UI / React Query</td>
 <td><a href="#" rel="nofollow">Coming soon</a></td>
 </tr>
 </tbody>
