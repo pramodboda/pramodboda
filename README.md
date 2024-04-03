@@ -1,14 +1,29 @@
-<h2>Hylo 👋,</br>I'm Pramod Kumar Boda</h2>
+<h1>Hylo 👋,</br>I'm Pramod Kumar Boda</h2>
 
 [![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)](https://www.linkedin.com/in/pramodkumarboda/)
 ---
-<h3>A passionate frontend developer from India</h3>
+<h2>A passionate frontend developer from India</h2>
 ---
-## My Projects 🚀
-| Project | Description | Tech | Websites |
-| ------------ | ------------ | -------------- | -------------- |
-| Weather App | Coming soon | React / Weather API / Fetch / Material UI | Coming soon |
-| 1            | 2            | 3              | 4              |
+<h2>My Projects 🚀</h2>
+<table>
+<thead>
+<tr>
+<th>Project</th>
+<th>Description</th>
+<th>Tech</th>
+<th>Websites</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="#"><strong>Weather API App</strong></a></td>
+<td>An Weather API App built with <strong>React.js</strong>, <strong>Material UI</strong></td>
+<td>React / Weather API / Fetch / Material UI</td>
+<td><a href="#" rel="nofollow">Coming soon</a></td>
+</tr>
+</tbody>
+</table>
+
 
 <img align="center" alt="technology" src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif" width="100%"/>
 
