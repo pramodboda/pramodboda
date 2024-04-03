@@ -1,7 +1,8 @@
 [![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)](https://www.linkedin.com/in/pramodkumarboda/)
 
-<h2 align="center">Hi 👋,</br>I'm Pramod Kumar Boda</h2>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h2>Hylo 👋,</br>I'm Pramod Kumar Boda</h2>
+---
+<h3>A passionate frontend developer from India</h3>
 
 <img align="center" alt="technology" src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif" width="100%"/>
 
