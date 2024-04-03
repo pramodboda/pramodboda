@@ -3,6 +3,12 @@
 [![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)](https://www.linkedin.com/in/pramodkumarboda/)
 ---
 <h3>A passionate frontend developer from India</h3>
+---
+## My Projects 🚀
+| Project | Description | Tech | Websites |
+| ------------ | ------------ | -------------- | -------------- |
+| Weather App | Coming soon | React / Weather API / Fetch / Material UI | Coming soon |
+| 1            | 2            | 3              | 4              |
 
 <img align="center" alt="technology" src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif" width="100%"/>
 
