@@ -1,4 +1,6 @@
 <h1>Hylo 👋,</br>I'm Pramod Kumar Boda</h2>
+[![MasterHead]([https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg](https://assets-global.website-files.com/615e270f23c94c3fc683f12c/65574b11974bd4efd9b4b78f_Meedan_Why%20is%20media%20literacy%20so%20important__Banner.png)](https://www.linkedin.com/in/pramodkumarboda/)
+
 
 [![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)](https://www.linkedin.com/in/pramodkumarboda/)
 <hr>
