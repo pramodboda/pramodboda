@@ -5,7 +5,7 @@
 
 
 <h2 style="border-bottom:0">A full stack Software Developer with a strong passion for Front-end and UX/UI design</h2>
-
+<h3 align="left">Connect with me:</h3>
 <p dir="auto"><a href="#" rel="nofollow"><img src="https://camo.githubusercontent.com/fae3635897d8d5c1877d5fb1a2ca5d09caa44f2843061380f1635b48fa0f1212/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f7274666f6c696f2d3433333863613f7374796c653d666f722d7468652d6261646765266c6f676f3d506f7274666f6c696f266c6f676f436f6c6f723d7768697465" alt="Portfolio" title="Portfolio" data-canonical-src="https://img.shields.io/badge/Portfolio-4338ca?style=for-the-badge&amp;logo=Portfolio&amp;logoColor=white" style="max-width: 100%;"></a>
 <a href="https://www.linkedin.com/in/pramodkumarboda/" rel="nofollow" target="_blank"><img src="https://camo.githubusercontent.com/a239709e5b580a3adec6f8df83f2d9742cffd66da30636ac6f3e762a179c0479/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564696e2d696e666f726d6174696f6e616c3f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d776869746526636f6c6f723d303037326231" alt="Linkedin" title="Linkedin" data-canonical-src="https://img.shields.io/badge/-Linkedin-informational?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;color=0072b1" style="max-width: 100%;"></a>
 <a href="mailto:pramodkumarboda@gmail.com"><img src="https://camo.githubusercontent.com/eb84c47221440979a1edf751a66d5fa4b53ecf4ee0275656d8af52ca455b97be/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4444343033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="Gmail" data-canonical-src="https://img.shields.io/badge/Gmail-DD4032?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>
@@ -58,10 +58,7 @@
 
 - 📫 How to reach me <a href="mailto:pramodkumarboda@gmail.com"><img src="https://camo.githubusercontent.com/eb84c47221440979a1edf751a66d5fa4b53ecf4ee0275656d8af52ca455b97be/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4444343033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="Gmail" data-canonical-src="https://img.shields.io/badge/Gmail-DD4032?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;" align="middle"></a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pramodkumarboda/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pramodkumarboda/" height="30" width="40" /></a>
-</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 
