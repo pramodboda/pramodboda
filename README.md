@@ -42,18 +42,20 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,less,bootstrap,react,redux,jest,tailwind,materialui&amp;" />
     <img src="https://skillicons.dev/icons?i=d3,postman,nodejs,express,mysql,mongodb,deno,bun,firebase,azure,git,github&amp;" />
-        <img src="https://skillicons.dev/icons?i=ps,ai,pr,figma&amp;" />
+    <img src="https://skillicons.dev/icons?i=ps,ai,pr,figma&amp;" />
   </a>
   </a>
 </div>
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pramodboda&label=Profile%20views&color=0e75b6&style=flat" alt="pramodboda" /> </p>
+<div align="center">
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=pramodboda&label=Profile%20views&color=0e75b6&style=flat" alt="pramodboda" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pramodboda" alt="pramodboda" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+</div>
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=pramodboda&show_icons=true&locale=en" alt="pramodboda" /></p>
