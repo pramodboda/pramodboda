@@ -60,7 +60,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=pramodboda&show_icons=true&locale=en" alt="pramodboda" /></p>
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=pramodboda&" alt="pramodboda" /></p>
+<div align="center">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=pramodboda&show_icons=true&locale=en&layout=compact" alt="pramodboda" />
+</div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pramodboda&show_icons=true&locale=en&layout=compact" alt="pramodboda" /></p>
 
 <img src="https://assets-global.website-files.com/615e270f23c94c3fc683f12c/65574b11974bd4efd9b4b78f_Meedan_Why%20is%20media%20literacy%20so%20important__Banner.png"/>
