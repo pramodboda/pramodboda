@@ -36,7 +36,7 @@
 </tr>
 </tbody>
 </table>
-<img src="https://assets-global.website-files.com/615e270f23c94c3fc683f12c/65574b11974bd4efd9b4b78f_Meedan_Why%20is%20media%20literacy%20so%20important__Banner.png"/>
+
 <div align="center">
   <h2 class="heading-element" dir="auto"><strong>My Technical Skills</strong> 🛠</h2>
   <a href="https://skillicons.dev">
@@ -47,6 +47,7 @@
 </div>
 
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pramodboda&label=Profile%20views&color=0e75b6&style=flat" alt="pramodboda" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pramodboda" alt="pramodboda" /></a> </p>
@@ -55,7 +56,7 @@
 
 - 💬 Ask me about **JavaScript, React**
 
-- 📫 How to reach me **pramodkumarboda@gmail.com**
+- 📫 How to reach me <a href="mailto:pramodkumarboda@gmail.com"><img src="https://camo.githubusercontent.com/eb84c47221440979a1edf751a66d5fa4b53ecf4ee0275656d8af52ca455b97be/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4444343033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="Gmail" data-canonical-src="https://img.shields.io/badge/Gmail-DD4032?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -70,3 +71,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pramodboda&show_icons=true&locale=en" alt="pramodboda" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pramodboda&" alt="pramodboda" /></p>
+
+<img src="https://assets-global.website-files.com/615e270f23c94c3fc683f12c/65574b11974bd4efd9b4b78f_Meedan_Why%20is%20media%20literacy%20so%20important__Banner.png"/>
