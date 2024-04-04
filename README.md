@@ -39,8 +39,9 @@
 <img src="https://assets-global.website-files.com/615e270f23c94c3fc683f12c/65574b11974bd4efd9b4b78f_Meedan_Why%20is%20media%20literacy%20so%20important__Banner.png"/>
 <div align="center">
   <h2 class="heading-element" dir="auto"><strong>My Technical Skills</strong> 🛠</h2>
-  <a href="https://skillicons.dev" rel="nofollow">
-  <img src="https://camo.githubusercontent.com/6b057cd6db61a44f32238382144eaf7798bde0aaa9935dee0882fc02cf39cd8a/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6177732c6763702c617a7572652c72656163742c7675652c666c7574746572267065726c696e653d33" alt="My Skills" data-canonical-src="https://skillicons.dev/icons?i=js,html,css,bootstrap,react,redux,tailwind,materialui&amp;perline=8" style="max-width: 100%;">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,react,redux,tailwind,materialui&amp;perline=8" />
+  </a>
   </a>
 </div>
 
