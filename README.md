@@ -41,7 +41,7 @@
   <h2 class="heading-element" dir="auto"><strong>My Technical Skills</strong> 🛠</h2>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,less,bootstrap,react,redux,jest,tailwind,materialui&amp;" />
-    <img src="https://skillicons.dev/icons?i=d3,postman,nodejs,express,mysql,mongodb,deno,bun,firebase,azure,git,github&amp;" />
+    <img src="https://skillicons.dev/icons?i=d3,postman,nodejs,express,mysql,mongodb,deno,bun,firebase,azure,git,github&amp;" /><br/>
     <img src="https://skillicons.dev/icons?i=ps,ai,pr,figma&amp;" />
   </a>
   </a>
