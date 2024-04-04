@@ -61,7 +61,8 @@
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=pramodboda&" alt="pramodboda" /></p>
 
 <div align="center">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=pramodboda&show_icons=true&locale=en&layout=compact" alt="pramodboda" />
+  <p>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=pramodboda&show_icons=true&locale=en&layout=compact" alt="pramodboda" /></p>
 </div>
 
 
