@@ -40,7 +40,7 @@
 <div align="center">
   <h2 class="heading-element" dir="auto"><strong>My Technical Skills</strong> 🛠</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,less,bootstrap,react,redux,jest,tailwind,materialui,d3,nodejs,express,mysql,mongodb,deno,bun,firebase,azure,git,github,ai,figma&amp;perline=8" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,less,bootstrap,react,redux,jest,tailwind,materialui,d3,postman,nodejs,express,mysql,mongodb,deno,bun,firebase,azure,git,github,ps,ai,pr,figma&amp;" />
   </a>
   </a>
 </div>
