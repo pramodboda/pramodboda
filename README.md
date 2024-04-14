@@ -32,7 +32,7 @@
 <td><a href="#"><strong>Masonry Gallery </strong></a></td>
 <td>A Masonry Gallery website built with <strong>React.js</strong>, <strong>Material UI</strong> </td>
 <td>React / Material UI / React Query</td>
-<td><a href="https://masonry-mui.netlify.app" rel="nofollow" target="_blank">Website</a></td>
+<td><a target="_blank" href="https://masonry-mui.netlify.app" >Website</a></td>
 </tr>
 </tbody>
 </table>
