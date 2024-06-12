@@ -62,7 +62,6 @@
 <p> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 </div>
 
-<h3 align="center">Languages and Tools:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=pramodboda&show_icons=true&locale=en" alt="pramodboda" /></p>
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=pramodboda&" alt="pramodboda" /></p>
