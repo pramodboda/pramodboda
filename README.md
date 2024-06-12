@@ -30,9 +30,16 @@
 </tr>
   <tr>
 <td><a target="_blank" href="https://github.com/pramodboda/unsplash-masonry-gallery.git"><strong>Masonry Gallery </strong></a></td>
-<td>A Masonry Gallery website built with <strong>React.js</strong>, <strong>Material UI</strong> </td>
+<td>A Masonry Gallery Application built with <strong>React.js</strong>, <strong>Material UI</strong> </td>
 <td>React / Material UI / React Query</td>
 <td><a target="_blank" href="https://masonry-mui.vercel.app" >Website</a></td>
+</tr>
+
+  <tr>
+<td><a target="_blank" href="https://github.com/pramodboda/news-homepage-fm.git"><strong>News Home Page</strong></a></td>
+<td>News Home Page website built with <strong>HTML</strong>, <strong>CSS</strong> and <strong>JS</strong> </td>
+<td>HTML / CSS / JS</td>
+<td><a target="_blank" href="https://pramodboda.github.io/news-homepage-fm/" >Website</a></td>
 </tr>
 </tbody>
 </table>
