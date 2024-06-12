@@ -37,7 +37,7 @@
 
   <tr>
 <td><a target="_blank" href="https://github.com/pramodboda/news-homepage-fm.git"><strong>News Home Page</strong></a></td>
-<td>News Home Page built with <strong>HTML</strong>, <strong>CSS</strong> and <strong>JS</strong> </td>
+<td>News Home web page built with <strong>HTML</strong>, <strong>CSS</strong> and <strong>JS</strong> </td>
 <td>HTML / CSS / JS</td>
 <td><a target="_blank" href="https://pramodboda.github.io/news-homepage-fm/" >Website</a></td>
 </tr>
