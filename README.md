@@ -59,19 +59,18 @@
 
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pramodboda" alt="pramodboda" /></a> </p>
 
-<p> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="pramodboda" /></a> </p>
 </div>
 
+<div align="center">
+  <p>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=pramodboda&show_icons=true&locale=en&layout=compact" alt="pramodboda" /></p>
+</div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=pramodboda&show_icons=true&locale=en" alt="pramodboda" /></p>
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=pramodboda&" alt="pramodboda" /></p>
 <br/>
 <br/>
-<br/>
-<div align="center">
-  <p>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=pramodboda&show_icons=true&locale=en&layout=compact" alt="pramodboda" /></p>
-</div>
 
 
 <img src="https://assets-global.website-files.com/615e270f23c94c3fc683f12c/65574b11974bd4efd9b4b78f_Meedan_Why%20is%20media%20literacy%20so%20important__Banner.png"/>
