@@ -54,13 +54,7 @@
   </a>
 </div>
 
-<div align="center">
-  <p> <img src="https://komarev.com/ghpvc/?username=pramodboda&label=Profile%20views&color=0e75b6&style=flat" alt="pramodboda" /> </p>
 
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pramodboda" alt="pramodboda" /></a> </p>
-
-<p> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="pramodboda" /></a> </p>
-</div>
 
 <div align="center">
   <p>
@@ -69,6 +63,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=pramodboda&show_icons=true&locale=en" alt="pramodboda" /></p>
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=pramodboda&" alt="pramodboda" /></p>
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
