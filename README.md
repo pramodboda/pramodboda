@@ -22,19 +22,28 @@
 </tr>
 </thead>
 <tbody>
+  
 <tr>
 <td><a href="#"><strong>Weather App</strong></a></td>
 <td>An Weather API App built with <strong>React.js</strong>, <strong>Material UI</strong></td>
 <td>React / Weather API / Fetch / Material UI</td>
 <td><a href="#" rel="nofollow">Coming soon</a></td>
 </tr>
+  
   <tr>
 <td><a target="_blank" href="https://github.com/pramodboda/unsplash-masonry-gallery.git"><strong>Masonry Gallery </strong></a></td>
 <td>A Masonry Gallery Application built with <strong>React.js</strong>, <strong>Material UI</strong> </td>
 <td>React / Material UI / React Query</td>
 <td><a target="_blank" href="https://masonry-mui.vercel.app" >Website</a></td>
 </tr>
-
+  
+  <tr>
+<td><a target="_blank" href="https://github.com/pramodboda/password-validator-reactjs.git"><strong>Password Validator</strong></a></td>
+<td>Password validator checks the password strength of the user input password.</td>
+<td>React / Material UI / Regex</td>
+<td><a target="_blank" href="https://password-validator-reactjs.vercel.app" >Website</a></td>
+</tr>
+  
   <tr>
 <td><a target="_blank" href="https://github.com/pramodboda/news-homepage-fm.git"><strong>News Home Page</strong></a></td>
 <td>News Home web page built with <strong>HTML</strong>, <strong>CSS</strong> and <strong>JS</strong> </td>
@@ -42,12 +51,7 @@
 <td><a target="_blank" href="https://pramodboda.github.io/news-homepage-fm/" >Website</a></td>
 </tr>
 
-  <tr>
-<td><a target="_blank" href="https://github.com/pramodboda/password-validator-reactjs.git"><strong>Password Validator</strong></a></td>
-<td>Password validator checks the password strength of the user input password.</td>
-<td>React / Material UI / Regex</td>
-<td><a target="_blank" href="https://password-validator-reactjs.vercel.app" >Website</a></td>
-</tr>
+
 </tbody>
 </table>
 
