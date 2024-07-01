@@ -44,7 +44,7 @@
 
   <tr>
 <td><a target="_blank" href="https://github.com/pramodboda/password-validator-reactjs.git"><strong>Password Validator</strong></a></td>
-<td>News Home web page built with <strong>HTML</strong>, <strong>CSS</strong> and <strong>JS</strong> </td>
+<td>Password validator checks the password strength of the user input password.</td>
 <td>React / Material UI / Regex</td>
 <td><a target="_blank" href="https://password-validator-reactjs.vercel.app" >Website</a></td>
 </tr>
