@@ -41,6 +41,13 @@
 <td>HTML / CSS / JS</td>
 <td><a target="_blank" href="https://pramodboda.github.io/news-homepage-fm/" >Website</a></td>
 </tr>
+
+  <tr>
+<td><a target="_blank" href="https://github.com/pramodboda/password-validator-reactjs.git"><strong>Password Validator</strong></a></td>
+<td>News Home web page built with <strong>HTML</strong>, <strong>CSS</strong> and <strong>JS</strong> </td>
+<td>React / Material UI / Regex</td>
+<td><a target="_blank" href="https://password-validator-reactjs.vercel.app" >Website</a></td>
+</tr>
 </tbody>
 </table>
 
