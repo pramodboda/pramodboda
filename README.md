@@ -43,6 +43,13 @@
 <td>React / Material UI / Regex</td>
 <td><a target="_blank" href="https://password-validator-reactjs.vercel.app" >Website</a></td>
 </tr>
+
+  <tr>
+    <td><a target="_blank" href="https://github.com/pramodboda/currency-converter-reactjs"><strong>Currency converter</strong></a></td>
+    <td>app contains three sections, one for taking the user input and store it inside a state variable, a menu where users can change the units of conversion, and finally a display section where we display the final results.</td>
+    <td>React / Material UI</td>
+    <td><a target="_blank" href="#" >Website</a></td>
+  </tr>
   
   <tr>
 <td><a target="_blank" href="https://github.com/pramodboda/news-homepage-fm.git"><strong>News Home Page</strong></a></td>
