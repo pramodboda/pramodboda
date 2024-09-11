@@ -2,7 +2,7 @@
 
 <!--
 [![MasterHead](https://assets-global.website-files.com/615e270f23c94c3fc683f12c/65574b11974bd4efd9b4b78f_Meedan_Why%20is%20media%20literacy%20so%20important__Banner.png)](https://www.linkedin.com/in/pramodkumarboda/) -->
-
+<a href="https://hits.sh/github.com//pramodboda/pramodboda"><img alt="Hits" src="https://hits.sh/github.com/pramodboda/pramodboda.svg?label=Viewer%20Count&color=355C7D&labelColor=4083e9"/></a>
 
 <h2 style="border-bottom:0">A full stack Software Developer with a strong passion for Front-end and UX/UI design</h2>
 <h3 align="left">Connect with me:</h3>
