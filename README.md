@@ -58,6 +58,13 @@
 <td><a target="_blank" href="https://pramodboda.github.io/news-homepage-fm/" >Website</a></td>
 </tr>
 
+  <tr>
+<td><a target="_blank" href="https://github.com/pramodboda/analog-clock-svg-js.git"><strong>Analog Clock</strong></a></td>
+<td>Analog Clock developed using <strong>SVG</strong>, <strong>JavaScript</strong></td>
+<td>HTML / CSS / JS</td>
+<td><a target="_blank" href="#" >Website</a></td>
+</tr>
+
 
 </tbody>
 </table>
