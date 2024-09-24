@@ -33,7 +33,7 @@
 
 <tr>
 <td><a href="#"><strong>React Dashboard</strong></a></td>
-<td>React Admin Dashboard made with <strong>MUI's</strong> components, <strong>React</strong> and <strong>Next.js</strong> to boost your app development process!</td>
+<td>React Admin Dashboard made with <strong>MUI's</strong> components, <strong>React</strong>, <strong>Mapbox</strong> and <strong>Next.js</strong> to boost your app development process!</td>
 <td>Vite+React / Material UI v5 / Authentication/ Dark Mode / https://material-kit-react.devias.io/auth/sign-in / https://free.minimals.cc/</td>
 <td><a href="#" rel="nofollow">Coming soon</a></td>
 </tr>
