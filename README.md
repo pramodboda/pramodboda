@@ -41,7 +41,7 @@
 <tr>
 <td><a href="#"><strong>Office Locator</strong></a></td>
 <td>Office Locator made with <strong>MUI</strong>, <strong>React</strong> and <strong>Next.js</strong> to boost your app development process!</td>
-<td>Vite+React / Material UI v5 / Authentication/ Dark Mode /</td>
+<td>Vite+React / Material UI v5 / Dark Mode /</td>
 <td><a href="#" rel="nofollow">Coming soon</a></td>
 </tr>
 
