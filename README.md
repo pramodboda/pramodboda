@@ -38,6 +38,13 @@
 <td><a href="#" rel="nofollow">Coming soon</a></td>
 </tr>
 
+<tr>
+<td><a href="#"><strong>Office Locator</strong></a></td>
+<td>Office Locator made with <strong>MUI</strong>, <strong>React</strong> and <strong>Next.js</strong> to boost your app development process!</td>
+<td>Vite+React / Material UI v5 / Authentication/ Dark Mode /</td>
+<td><a href="#" rel="nofollow">Coming soon</a></td>
+</tr>
+
   <tr>
 <td><a target="_blank" href="https://github.com/pramodboda/unsplash-masonry-gallery.git"><strong>Masonry Gallery </strong></a></td>
 <td>A Masonry Gallery Application built with <strong>React.js</strong>, <strong>Material UI</strong> </td>
