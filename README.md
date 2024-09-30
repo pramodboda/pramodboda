@@ -33,8 +33,9 @@
 
 <tr>
 <td><a href="#"><strong>React Dashboard</strong></a></td>
-<td>Admin Dashboard - <strong>Next.js</strong>, <strong>TypeScript</strong> and <strong>Shadcn/ui</strong> to boost your app development process!</td>
-<td>Shadcn/ui / Authentication/ Dark Mode / https://material-kit-react.devias.io/auth/sign-in / https://free.minimals.cc/</td>
+  
+<td>Admin Dashboard - <strong>Next.js</strong>, <strong>TypeScript</strong> and <strong>MUI</strong> to boost your app development process!</td>
+<td>MUI / ChartsJS/ Authentication/ Dark Mode / https://material-kit-react.devias.io/auth/sign-in / https://free.minimals.cc/</td>
 <td><a href="#" rel="nofollow">Coming soon</a></td>
 </tr>
 
