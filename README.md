@@ -81,6 +81,13 @@
 <td><a target="_blank" href="#" >Website</a></td>
 </tr>
 
+  <tr>
+<td><a target="_blank" href="https://github.com/pramodboda/fullpage-animation-js.git"><strong>Fullpage Animation</strong></a></td>
+<td>Fullpage Animation developed using <strong>HTML</strong>, <strong>CSS</strong> and <strong>JavaScript</strong></td>
+<td>HTML / CSS / JS</td>
+<td><a target="_blank" href="#" >Website</a></td>
+</tr>
+
 
 </tbody>
 </table>
