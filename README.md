@@ -12,6 +12,7 @@
 </p>
 <hr/>
 <h2>My Projects 🚀</h2>
+
 <table>
 <thead>
 <tr>
@@ -33,7 +34,6 @@
 
 <tr>
 <td><a href="#"><strong>React Dashboard</strong></a></td>
-  
 <td>Admin Dashboard - <strong>Next.js</strong>, <strong>TypeScript</strong> and <strong>MUI</strong> to boost your app development process!</td>
 <td>MUI / ChartsJS/ Authentication/ Dark Mode / https://material-kit-react.devias.io/auth/sign-in / https://free.minimals.cc/</td>
 <td><a href="#" rel="nofollow">Coming soon</a></td>
@@ -53,7 +53,7 @@
 <td><a target="_blank" href="https://masonry-mui.vercel.app" >Website</a></td>
 </tr>
 
-    <tr>
+<tr>
 <td><a target="_blank" href="https://github.com/pramodboda/3d-apple-watch-ultra-orange-v2"><strong>3D Apple Watch Ultra</strong></a></td>
 <td>3D Model rending for web with <strong>Three.JS</strong> and animation on scroll based using <strong>GSAP</strong></td>
 <td>HTML, CSS, JS and Three.js</td>
