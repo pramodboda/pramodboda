@@ -54,10 +54,10 @@
 </tr>
 
     <tr>
-<td><a target="_blank" href="https://github.com/pramodboda/3d-apple-watch-ultra-orange"><strong>3D Apple Watch Ultra</strong></a></td>
+<td><a target="_blank" href="https://github.com/pramodboda/3d-apple-watch-ultra-orange-v2"><strong>3D Apple Watch Ultra</strong></a></td>
 <td>3D Model rending for web with <strong>Three.JS</strong> and animation on scroll based using <strong>GSAP</strong></td>
 <td>HTML, CSS, JS and Three.js</td>
-<td><a target="_blank" href="https://pramodboda.github.io/3d-apple-watch-ultra-orange/" >Website</a></td>
+<td><a target="_blank" href="https://pramodboda.github.io/3d-apple-watch-ultra-orange-v2/" >Website</a></td>
 </tr>
 
   <tr>
