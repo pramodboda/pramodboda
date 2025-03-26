@@ -38,7 +38,12 @@
 <td>MUI / ChartsJS/ Authentication/ Dark Mode / https://material-kit-react.devias.io/auth/sign-in / https://free.minimals.cc/</td>
 <td><a href="#" rel="nofollow">Coming soon</a></td>
 </tr>
-
+  <tr>
+<td><a target="_blank" href="https://github.com/pramodboda/unsplash-masonry-gallery.git"><strong>Masonry Gallery</strong></a></td>
+<td>A Masonry Gallery Application built with <strong>React.js</strong>, <strong>Material UI</strong> </td>
+<td>React / Material UI / React Query</td>
+<td><a target="_blank" href="https://masonry-mui.vercel.app" >Website</a></td>
+</tr>
 <tr>
 <td><a href="#"><strong>Office Locator</strong></a></td>
 <td>Office Locator made with <strong>MUI</strong>, <strong>React</strong> and <strong>Next.js</strong> to boost your app development process!</td>
@@ -46,12 +51,7 @@
 <td><a href="#" rel="nofollow">Coming soon</a></td>
 </tr>
 
-  <tr>
-<td><a target="_blank" href="https://github.com/pramodboda/unsplash-masonry-gallery.git"><strong>Masonry Gallery</strong></a></td>
-<td>A Masonry Gallery Application built with <strong>React.js</strong>, <strong>Material UI</strong> </td>
-<td>React / Material UI / React Query</td>
-<td><a target="_blank" href="https://masonry-mui.vercel.app" >Website</a></td>
-</tr>
+
   <tr>
 <td><a target="_blank" href="https://github.com/pramodboda/password-validator-reactjs.git"><strong>Password Validator</strong></a></td>
 <td>Password validator checks the password strength of the user input password.</td>
