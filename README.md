@@ -99,7 +99,53 @@
 
 </tbody>
 </table>
+<hr/>
+<h2>JavaScript Projects 🚀</h2>
 
+<table>
+<thead>
+<tr>
+<th>Project</th>
+<th>Description</th>
+<th>Tech</th>
+<th>Websites</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+<td><a target="_blank" href="https://github.com/pramodboda/3d-apple-watch-ultra-orange-v2"><strong>3D Apple Watch Ultra</strong></a></td>
+<td>3D Model rending for web with <strong>Three.JS</strong> and animation on scroll based using <strong>GSAP</strong></td>
+<td>HTML, CSS, JS and Three.js</td>
+<td><a target="_blank" href="https://pramodboda.github.io/3d-apple-watch-ultra-orange-v2/" >Website</a></td>
+</tr>
+
+  
+  <tr>
+<td><a target="_blank" href="https://github.com/pramodboda/news-homepage-fm.git"><strong>News Home Page</strong></a></td>
+<td>News Home web page built with <strong>HTML</strong>, <strong>CSS</strong> and <strong>JS</strong> </td>
+<td>HTML / CSS / JS</td>
+<td><a target="_blank" href="https://pramodboda.github.io/news-homepage-fm/" >Website</a></td>
+</tr>
+
+  <tr>
+<td><a target="_blank" href="https://github.com/pramodboda/analog-clock-svg-js.git"><strong>Analog Clock</strong></a></td>
+<td>Analog Clock developed using <strong>SVG</strong>, <strong>JavaScript</strong></td>
+<td>HTML / CSS / JS</td>
+<td><a target="_blank" href="#" >Website</a></td>
+</tr>
+
+  <tr>
+<td><a target="_blank" href="https://github.com/pramodboda/fullpage-animation-js.git"><strong>Fullpage Animation</strong></a></td>
+<td>Fullpage Animation developed using <strong>HTML</strong>, <strong>CSS</strong> and <strong>JavaScript</strong></td>
+<td>HTML / CSS / JS</td>
+<td><a target="_blank" href="#" >Website</a></td>
+</tr>
+
+
+
+</tbody>
+</table>
 <div align="center">
   <h2 class="heading-element" dir="auto"><strong>My Technical Skills</strong> 🛠</h2>
   <a href="https://skillicons.dev">
