@@ -11,7 +11,7 @@
 <a href="mailto:pramodkumarboda@gmail.com"><img src="https://camo.githubusercontent.com/eb84c47221440979a1edf751a66d5fa4b53ecf4ee0275656d8af52ca455b97be/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4444343033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="Gmail" data-canonical-src="https://img.shields.io/badge/Gmail-DD4032?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>
 </p>
 <hr/>
-<h2>My Projects 🚀</h2>
+<h2>React/ Angular Projects 🚀</h2>
 
 <table>
 <thead>
@@ -52,14 +52,6 @@
 <td>React / Material UI / React Query</td>
 <td><a target="_blank" href="https://masonry-mui.vercel.app" >Website</a></td>
 </tr>
-
-<tr>
-<td><a target="_blank" href="https://github.com/pramodboda/3d-apple-watch-ultra-orange-v2"><strong>3D Apple Watch Ultra</strong></a></td>
-<td>3D Model rending for web with <strong>Three.JS</strong> and animation on scroll based using <strong>GSAP</strong></td>
-<td>HTML, CSS, JS and Three.js</td>
-<td><a target="_blank" href="https://pramodboda.github.io/3d-apple-watch-ultra-orange-v2/" >Website</a></td>
-</tr>
-
   <tr>
 <td><a target="_blank" href="https://github.com/pramodboda/password-validator-reactjs.git"><strong>Password Validator</strong></a></td>
 <td>Password validator checks the password strength of the user input password.</td>
