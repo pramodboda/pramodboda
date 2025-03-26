@@ -143,5 +143,5 @@
 <br/>
 <br/>
 <br/>
-
+<hr/>
 <img src="https://assets-global.website-files.com/615e270f23c94c3fc683f12c/65574b11974bd4efd9b4b78f_Meedan_Why%20is%20media%20literacy%20so%20important__Banner.png"/>
