@@ -75,7 +75,7 @@
     <td><a target="_blank" href="#" >Website</a></td>
   </tr> 
   <tr>
-    <td><a target="_blank" href="https://github.com/pramodboda/tree-structure-ui-react-ts"><strong>Tree Structure MUI</strong></a></td>
+    <td><a target="_blank" href="https://github.com/pramodboda/tree-structure-mui-react-ts"><strong>Tree Structure MUI</strong></a></td>
     <td>Update later</td>
     <td>React + TypeScript + Material MUI</td>
     <td><a target="_blank" href="#" >Website</a></td>
