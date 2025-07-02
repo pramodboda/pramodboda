@@ -50,8 +50,6 @@
 <td>Vite+React / Material UI v5 / Dark Mode /</td>
 <td><a href="#" rel="nofollow">Coming soon</a></td>
 </tr>
-
-
   <tr>
 <td><a target="_blank" href="https://github.com/pramodboda/password-validator-reactjs.git"><strong>Password Validator</strong></a></td>
 <td>Password validator checks the password strength of the user input password.</td>
@@ -74,6 +72,12 @@
     <td><a target="_blank" href="https://github.com/pramodboda/tree-structure-ui-react-ts"><strong>Tree Structure UI</strong></a></td>
     <td>Update later</td>
     <td>React + TypeScript + Minimal CSS</td>
+    <td><a target="_blank" href="#" >Website</a></td>
+  </tr> 
+  <tr>
+    <td><a target="_blank" href="https://github.com/pramodboda/tree-structure-ui-react-ts"><strong>Tree Structure MUI</strong></a></td>
+    <td>Update later</td>
+    <td>React + TypeScript + Material MUI</td>
     <td><a target="_blank" href="#" >Website</a></td>
   </tr> 
     <tr>
