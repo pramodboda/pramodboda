@@ -81,13 +81,13 @@
     <td><a target="_blank" href="#" >Website</a></td>
   </tr> 
     <tr>
-    <td><a target="_blank" href="#"><strong>sree-vikash-portfolio</strong></a></td>
+    <td><a target="_blank" href="#"><strong>Sree Vikash Portfolio</strong></a></td>
     <td>Sree Vikash Portfolio</td>
     <td>React / Material UI/ Scroll based animations</td>
     <td><a target="_blank" href="#" >Coming Soon</a></td>
   </tr>
       <tr>
-    <td><a target="_blank" href="#"><strong>pramodboda-portfolio</strong></a></td>
+    <td><a target="_blank" href="#"><strong>PramodBoda Portfolio</strong></a></td>
     <td>Pramod Boda Portfolio</td>
     <td>React / Material UI/ Scroll based animations</td>
     <td><a target="_blank" href="#" >Coming Soon</a></td>
