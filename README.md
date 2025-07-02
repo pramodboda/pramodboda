@@ -70,6 +70,12 @@
     <td>React / Material UI</td>
     <td><a target="_blank" href="#" >Website</a></td>
   </tr> 
+      <tr>
+    <td><a target="_blank" href=""><strong>Tree Structure UI</strong></a></td>
+    <td>Update later</td>
+    <td>React + TypeScript + Minimal CSS</td>
+    <td><a target="_blank" href="#" >Website</a></td>
+  </tr> 
     <tr>
     <td><a target="_blank" href="#"><strong>sree-vikash-portfolio</strong></a></td>
     <td>Sree Vikash Portfolio</td>
