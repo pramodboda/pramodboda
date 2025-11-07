@@ -51,10 +51,10 @@
 <td><a href="#" rel="nofollow">Coming soon</a></td>
 </tr>
 <tr>
-  <td><a target="_blank" href="https://github.com/pramodboda/password-validator-reactjs.git"><strong>Cashhub Watchlist Widget</strong></a></td>
+  <td><a target="_blank" href="https://github.com/pramodboda/cashhub-watchlist-widget.git"><strong>Cashhub Watchlist Widget</strong></a></td>
   <td>Cashhub Watchlist is a widget that show some list ot asset classes with drag and drop option and clean MUI</td>
   <td>React / Material UI / dnd kit</td>
-  <td><a target="_blank" href="https://password-validator-reactjs.vercel.app" >Website</a></td>
+  <td><a target="_blank" href="#" >Coming Soon</a></td>
 </tr>
 <tr>
 <td><a target="_blank" href="https://github.com/pramodboda/password-validator-reactjs.git"><strong>Password Validator</strong></a></td>
