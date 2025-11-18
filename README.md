@@ -95,7 +95,7 @@
       <tr>
     <td><a target="_blank" href="#"><strong>PramodBoda Portfolio</strong></a></td>
     <td>Pramod Boda Portfolio</td>
-    <td>React / Material UI/ Scroll based animations</td>
+    <td>React / Material UI/ Scroll based animations, Projects made by human.</td>
     <td><a target="_blank" href="#" >Coming Soon</a></td>
   </tr>
 </tbody>
