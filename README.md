@@ -26,7 +26,7 @@
 
 
 <tr>
-<td><a href="#"><strong>Weather App</strong></a></td>
+<td><a target="_blank" href="https://github.com/pramodboda/weather-app"><strong>Weather App</strong></a></td>
 <td>An Weather API App built with <strong>React.js</strong>, <strong>Material UI</strong></td>
 <td>React / Weather API / Fetch / Material UI</td>
 <td><a href="#" rel="nofollow">Coming soon</a></td>
