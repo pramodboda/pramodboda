@@ -87,10 +87,10 @@
     <td><a target="_blank" href="#" >Website</a></td>
   </tr> 
     <tr>
-    <td><a target="_blank" href="sree-vikash-portfolio.vercel.app"><strong>Sree Vikash Portfolio</strong></a></td>
+    <td><a target="_blank" href="https://github.com/pramodboda/sree-vikash-portfolio"><strong>Sree Vikash Portfolio</strong></a></td>
     <td>Sree Vikash Portfolio</td>
     <td>React / Material UI/ Scroll based animations</td>
-    <td><a target="_blank" href="#" >Coming Soon</a></td>
+    <td><a target="_blank" href="sree-vikash-portfolio.vercel.app" >Website</a></td>
   </tr>
       <tr>
     <td><a target="_blank" href="#"><strong>PramodBoda Portfolio</strong></a></td>
