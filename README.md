@@ -27,10 +27,10 @@
 
   <tr>
 <td><a target="_blank" href="#"><strong>Real-Time Collaborative Whiteboard</strong></a></td>
-<td>A modern, multiplayer whiteboard application that enables users to draw, sketch, brainstorm, and collaborate together in real time from anywhere in the world. <br/>
-  Built using <strong>React + TypeScript</strong> on the frontend and <strong>Node.js + Socket.IO</strong> on the backend, the application delivers ultra-fast bidirectional communication with smooth live synchronization between connected users.
+<td>A modern, multiplayer whiteboard application that enables users to draw, sketch, brainstorm, and collaborate together in real time from anywhere in the world.
+ 
  </td>
-<td>React / WebSocket + Node</td>
+<td>Built using <strong>React + TypeScript</strong> on the frontend and <strong>Node.js + Socket.IO</strong> on the backend, the application delivers ultra-fast bidirectional communication with smooth live synchronization between connected users.</td>
 <td><a href="https://collaborative-whiteboard-nu.vercel.app" rel="nofollow">Website</a></td>
 </tr>
 
