@@ -25,6 +25,21 @@
 <tbody>
 
 
+
+ <tr>
+<td><a target="_blank" href="#"><strong>PixelForge</strong></a></td>
+<td>A privacy-first, browser-based image optimization tool that compresses, converts, resizes, and compares images entirely on the user's device.</td>
+<td>Advanced frontend application → browser APIs + Web Workers + WASM + performance + UX</td>
+<td><a href="#" rel="nofollow">Website</a></td>
+</tr>
+
+ <tr>
+<td><a target="_blank" href="#"><strong>InsightForge</strong></a></td>
+<td>Multi-domain Intelligence Dashboard Platform.</td>
+<td></td>
+<td><a href="#" rel="nofollow">Website</a></td>
+</tr>
+
   <tr>
 <td><a target="_blank" href="#"><strong>Real-Time Collaborative Whiteboard</strong></a></td>
 <td>A modern, multiplayer whiteboard application that enables users to draw, sketch, brainstorm, and collaborate together in real time from anywhere in the world.
